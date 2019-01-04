@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name      = 'PieKit'
-s.version   = '1.0.3'
+s.version   = '1.0.4'
 s.summary   = 'PieKit 是一组在OC中使用比较方便的工具类'
 s.homepage  = 'https://github.com/LWPPIE/PieKit'
 s.license   = '{ :type => "MIT", :file => "LICENSE" }'
