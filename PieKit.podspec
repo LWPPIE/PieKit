@@ -8,7 +8,7 @@ s.platform  = :ios
 s.author    = {'LWPPIE' => '610310337@qq.com'}
 s.ios.deployment_target = '8.0'
 s.source    = {:git => 'https://github.com/LWPPIE/PieKit.git',:tag => s.version}
-s.source_files = 'PieKit/**/*'
+s.source_files = "PieKit/*.{h,m}"
 #s.resources = "PieKits/*.{h,m}"
 s.requires_arc = true
 s.frameworks    = 'UIKit'
